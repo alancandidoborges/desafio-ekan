@@ -31,19 +31,26 @@ Pré-requisitos: Java 17
 
 Primeiramente, faça o clone do repositório:
 ```
-https://github.com/emmanuelneri/productivity-with-spring.git
+(https://github.com/alancandidoborges/desafio-ekan.git)
 ```
 Feito isso, acesse o projeto:
 ```
-cd productivity-with-spring
+cd c:\desafio-ekan
 ```
 É preciso compilar o código e baixar as dependências do projeto:
 ```
 mvn clean package
 ```
-Finalizado esse passo, vamos iniciar a aplicação:
+Finalizado esse passo, vamos iniciar a aplicação porem antes se certifica se tivemoso sucesso no build.
+
+![image](https://github.com/alancandidoborges/desafio-ekan/assets/105753591/a3cbb554-d7a5-4411-a91e-c82939490220)
+
 ```
-mvn spring-boot:run
+Será gerado um arquivo na pasta "C:\desafio-ekan\target" com a extenção .jar
+
+Execute o comando java -jar mais o nome do arquivo.
+
+Exemplo: java -jar ekanapi.jar
 ```
 Pronto. A aplicação está disponível em http://localhost:8091 e a documentação estara disponivel em http://localhost:8091/swagger-ui/index.html#/
 ```
@@ -96,5 +103,5 @@ Retorno
 
 Alan Candido Borges Barreto
 
-[https://www.linkedin.com/in/alan-candido-borges-barreto-303240176/]
+(https://www.linkedin.com/in/alan-candido-borges-barreto-303240176/)
 
