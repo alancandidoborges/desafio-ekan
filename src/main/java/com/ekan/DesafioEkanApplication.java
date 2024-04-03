@@ -1,0 +1,12 @@
+package com.ekan;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DesafioEkanApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DesafioEkanApplication.class, args);
+	}
+}
