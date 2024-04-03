@@ -89,6 +89,9 @@ Retorno
 
 ![image](https://github.com/alancandidoborges/desafio-ekan/assets/105753591/7ed06203-001d-41da-ab3f-f0df0e33f892)
 
+# End-points disponivel na aplicação
+![image](https://github.com/alancandidoborges/desafio-ekan/assets/105753591/ed2f0c69-df44-4e6e-9c23-c288fe90daae)
+
 # Autor
 
 Alan Candido Borges Barreto
